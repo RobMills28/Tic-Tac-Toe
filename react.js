@@ -1,3 +1,8 @@
+import React from "react";
+import ReactDOM from "react-dom";
+import "./styles.css";
+import "./index.html";
+
 function Square(props) {
   return (
     <button
